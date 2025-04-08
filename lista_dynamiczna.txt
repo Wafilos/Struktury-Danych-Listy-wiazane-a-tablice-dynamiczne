@@ -1,0 +1,7 @@
+Czas dodania elementu na poczatek wyniosl;24200;ns
+Czas dodania elementu na koniec wyniosl;200;ns
+Czas dodania elementu na srodek wyniosl;10900;ns
+Czas usuniecia poczatkowego elementu wyniosl;23300;ns
+Czas usuniecia ostatniego elementu wyniosl;200;ns
+Czas usuniecia elementu ze srodka wyniosl;11800;ns
+Czas wyszukania srodkowego elementu;369400;ns
